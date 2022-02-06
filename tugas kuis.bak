@@ -1,0 +1,24 @@
+<html>  
+<body>  
+<h4><b>BELAJAR PEMOGRAMAN HTML</h4></b>
+ 
+<ol type="I">  
+<li>NAMA:DITIA NIM:13</li> 
+</ol>
+
+<table border=1 width=100%>
+ <tr> 
+ <td rowspan=2 width=13%><img src="gambar1.jpg" width=135 height=150></td> 
+ <td bgcolor=pink><marquee><h1>WeLcOmE To My WeBsItE :</h1></td>
+  </tr> 
+  <tr>
+   <td bgcolor=maroon><h1><marquee behavior=alternate><font color=white face=broadway> CINTA LAURA</h1></td>
+    </tr> 
+    </table>
+
+
+<table border=4 width=75% background="gambar2.jpg"> 
+<caption><h4>Contoh memberi Image Background pada Tabel</h4></caption>
+ 
+</body>  
+</html>
